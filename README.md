@@ -18,9 +18,10 @@ To run the LanguageLens project locally, follow these steps:
    git clone https://github.com/yourusername/languagelens.git
    cd languagelens
 2.**Setup envarment variable**.
-**REACT_NATIVE_GOOGLE_CLOUD_API_KEY**=your_google_cloud_api_key
-**FIREBASE_API_KEY**=your_firebase_api_key
-**FIREBASE_AUTH_DOMAIN**=your_firebase_auth_domain
-**FIREBASE_PROJECT_ID**=your_firebase_project_id
-**FIREBASE_STORAGE_BUCKET**=your_firebase_storage_bucket
-**FIREBASE_APP_ID**=your_firebase_app_id
+  ```bash
+   **REACT_NATIVE_GOOGLE_CLOUD_API_KEY**=your_google_cloud_api_key
+   **FIREBASE_API_KEY**=your_firebase_api_key
+   **FIREBASE_AUTH_DOMAIN**=your_firebase_auth_domain
+   **FIREBASE_PROJECT_ID**=your_firebase_project_id
+   **FIREBASE_STORAGE_BUCKET**=your_firebase_storage_bucket
+   **FIREBASE_APP_ID**=your_firebase_app_id
